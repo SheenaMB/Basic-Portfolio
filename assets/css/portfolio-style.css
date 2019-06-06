@@ -1,0 +1,27 @@
+#main-content {
+    float: none;
+    height: 600px;
+
+}
+    #divider {
+    border: solid #cccccc 1px;
+    margin-bottom: 18px;
+    width: 100%;
+}
+
+.portfolio {
+    padding: 20px;
+   
+}
+.footer {
+    font-size: 12px;
+    text-align: center;
+    background:#666666;
+    padding: 5px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    border-top: solid #4aaaa5 4px;
+
+
+}
