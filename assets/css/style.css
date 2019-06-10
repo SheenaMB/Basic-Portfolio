@@ -5,6 +5,7 @@
     font-size: 14px;
     font-family: 'Georgia', Times, Times New Roman, serif;
     height: 60px;
+    border-bottom: solid #dddddd 2px;
 }
 .header {
     font-family: 'Georgia', Times, Times New Roman, serif;
